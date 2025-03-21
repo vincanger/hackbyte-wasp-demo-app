@@ -14,5 +14,9 @@
 ### check out a visualization of your fullstack app
 `wasp studio`
 
-### check out the docs
-https://wasp.sh/docs
+## Other Demo Apps
+
+run `wasp new` and choose between a variety of demo apps!
+
+## Check out the Intro Tutorial
+[intro tutorial](https://wasp.sh/docs/tutorial/create)
